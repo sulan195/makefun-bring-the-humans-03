@@ -8,7 +8,7 @@ An original short vertical video ad for make.fun, posted publicly on TikTok: you
 
 The video shows make.fun's brand badge from its first frame, tells viewers what make.fun is and why they should join, and ends on make.fun's referral end card with the account's own referral code. It was made entirely in the recorded agent sessions behind this repository (script, Kokoro voiceover, ffmpeg render) and posted as a video from the public TikTok account @common.projection.
 
-Watch it on TikTok: https://www.tiktok.com/@common.projection/video/7710966495777492245 (posted publicly from @common.projection; the address is also in `VIDEO.json`).
+Watch it on TikTok: https://www.tiktok.com/@common.projection/video/7710991098990103829 (posted publicly from @common.projection; the address is also in `VIDEO.json`).
 
 ## Run it
 
